@@ -95,6 +95,13 @@ node tools/build.mjs    --game "<game>/CUSA06534" --translations translations/de
 Pick a language slot whose **font** covers your diacritics, then read
 [section 7 of the workflow](docs/WORKFLOW.en.md#7-another-language).
 
+## Support
+
+The translation is free and will stay free. If it was useful to you and you feel
+like supporting further work — thank you!
+
+**☕ [ko-fi.com/rokinas14](https://ko-fi.com/rokinas14)**
+
 ## Credits and rights
 
 Fan translation. Game text, trademarks and artwork belong to **Electronic Arts

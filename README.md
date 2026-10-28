@@ -89,6 +89,13 @@ kiekvienam rastam `stringid` pakeičiamas `sourcetext`, ir rezultatas įrašomas
 Išsamus aprašymas, terminų žodynas ir atkūrimo žingsniai — [docs/WORKFLOW.md](docs/WORKFLOW.md).
 English version — [docs/WORKFLOW.en.md](docs/WORKFLOW.en.md).
 
+## Parama
+
+Vertimas nemokamas ir toks liks. Jei jis pasirodė naudingas ir nori paremti
+tolesnį darbą — ačiū!
+
+**☕ [ko-fi.com/rokinas14](https://ko-fi.com/rokinas14)**
+
 ## Padėka ir teisės
 
 Vertimas yra mėgėjiškas (fan translation). Žaidimo tekstai, prekių ženklai ir
