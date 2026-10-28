@@ -1,0 +1,17 @@
+{
+  "name": "ufc3-lt",
+  "version": "1.0.0",
+  "description": "Lithuanian fan translation for EA SPORTS UFC 3 (PS4 / UFC3Native emulator)",
+  "license": "MIT",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "validate": "node tools/validate.mjs",
+    "build": "node tools/build.mjs",
+    "status": "node tools/status.mjs",
+    "extract": "node tools/extract.mjs"
+  },
+  "dependencies": {
+    "fifa-t3db": "^0.0.2"
+  }
+}

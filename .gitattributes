@@ -1,0 +1,7 @@
+# normalise text files to LF on every platform
+* text=auto eol=lf
+
+# game database is binary — never touch its bytes
+*.db binary
+*.png binary
+*.jpg binary

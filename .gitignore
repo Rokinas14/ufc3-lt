@@ -1,0 +1,15 @@
+# dependencies
+node_modules/
+
+# scratch files from the translation process
+work/
+*.bak
+*.log
+
+# extracted dictionaries (regenerate with tools/extract.mjs)
+translations/en.json
+
+# OS noise
+Thumbs.db
+.DS_Store
+desktop.ini
